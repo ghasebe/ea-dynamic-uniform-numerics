@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: "software"
+authors:
+  - family-names: Hasebe
+    given-names: Georg 
+title: "Numerical verification for the (1+1) EA on noisy linear functions with Uniform(0,1) weights"
+keywords:
+  - evolutionary algorithms
+  - drift analysis
+  - SageMath
+  - noisy linear functions
+license: "MIT"
